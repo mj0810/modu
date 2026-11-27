@@ -1,0 +1,6135 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-27T01:06:49Z",
+    "timestamp_areas_base": "2026-11-26T19:24:52Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 355173682,
+      "lat": 36.3382554,
+      "lon": 127.3932978,
+      "tags": {
+        "name": "용문",
+        "name:en": "Yongmun",
+        "name:ja": "ヨンムン(龍汶)",
+        "name:ko": "용문",
+        "name:ko-Hani": "龍汶",
+        "name:zh": "龙汶",
+        "name:zh-Hans": "龙汶",
+        "name:zh-Hant": "龍汶",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "109",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586328"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355173693,
+      "lat": 36.3583733,
+      "lon": 127.3645747,
+      "tags": {
+        "name": "월평",
+        "name:en": "Wolpyeong",
+        "name:ja": "ウォルピョン(月坪)",
+        "name:ko": "월평",
+        "name:ko-Hani": "月坪",
+        "name:zh": "月坪",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "114",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586336"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355173694,
+      "lat": 36.3546063,
+      "lon": 127.3544975,
+      "tags": {
+        "name": "갑천",
+        "name:en": "Gapcheon",
+        "name:ja": "カプチョン(甲川)",
+        "name:ko": "갑천",
+        "name:ko-Hani": "甲川",
+        "name:zh": "甲川",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "115",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586309"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355173697,
+      "lat": 36.3461286,
+      "lon": 127.3847192,
+      "tags": {
+        "name": "탄방",
+        "name:en": "Tanbang",
+        "name:ja": "タンバン(炭坊)",
+        "name:ko": "탄방",
+        "name:ko-Hani": "炭坊",
+        "name:zh": "炭坊",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "110",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586349"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355173698,
+      "lat": 36.3514837,
+      "lon": 127.3866258,
+      "tags": {
+        "name": "시청",
+        "name:en": "City Hall",
+        "name:ja": "シチョン(市庁)",
+        "name:ko": "시청",
+        "name:ko-Hani": "市廳",
+        "name:zh": "市厅",
+        "name:zh-Hans": "市厅",
+        "name:zh-Hant": "市廳",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "111",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586320"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355173700,
+      "lat": 36.35763,
+      "lon": 127.3816126,
+      "tags": {
+        "name": "정부청사",
+        "name:en": "Government Complex Daejeon",
+        "name:ja": "チョンブチョンサ(政府庁舎)",
+        "name:ko": "정부청사",
+        "name:ko-Hani": "政府廳舍",
+        "name:zh": "政府大楼",
+        "name:zh-Hans": "政府大楼",
+        "name:zh-Hant": "政府大樓",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "112",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586444"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355173701,
+      "lat": 36.3577013,
+      "lon": 127.3727947,
+      "tags": {
+        "name": "갈마",
+        "name:en": "Galma",
+        "name:ja": "カルマ(葛馬)",
+        "name:ko": "갈마",
+        "name:ko-Hani": "葛馬",
+        "name:zh": "葛马",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "113",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586300"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368767432,
+      "lat": 36.348689,
+      "lon": 127.3885886,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "우성정형외과의원",
+        "name:en": "Useongjeonghyeongoegwa Clinic",
+        "name:ko": "우성정형외과의원",
+        "name:ko-Latn": "Useongjeonghyeongoegwauiwon",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 566882601,
+      "lat": 36.3512977,
+      "lon": 127.3550051,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626311630,
+      "lat": 36.3579955,
+      "lon": 127.3726251,
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130744504,
+      "lat": 36.3600221,
+      "lon": 127.3634428,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1342141459,
+      "lat": 36.3676864,
+      "lon": 127.3901734,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1342141764,
+      "lat": 36.3701427,
+      "lon": 127.3916978,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1342142005,
+      "lat": 36.3726238,
+      "lon": 127.393338,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1342142209,
+      "lat": 36.3712649,
+      "lon": 127.3852025,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1342142215,
+      "lat": 36.3713116,
+      "lon": 127.3802602,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1366289099,
+      "lat": 36.3610174,
+      "lon": 127.378624,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1417906456,
+      "lat": 36.37024,
+      "lon": 127.3890043,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1442071993,
+      "lat": 36.3678674,
+      "lon": 127.3845625,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1442072800,
+      "lat": 36.3703669,
+      "lon": 127.385673,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1904388026,
+      "lat": 36.350442,
+      "lon": 127.3847353,
+      "tags": {
+        "amenity": "townhall",
+        "name": "대전광역시청",
+        "name:en": "Daejeon City Hall",
+        "name:ja": "大田広域市庁",
+        "name:ko": "대전광역시청",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1906782205,
+      "lat": 36.3573534,
+      "lon": 127.3827018,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3379496950,
+      "lat": 36.2146635,
+      "lon": 127.3414184,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3379497416,
+      "lat": 36.36645,
+      "lon": 127.37077,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "drinking_water": "no",
+        "fee": "no",
+        "toilets:disposal": "chemical",
+        "toilets:position": "urinal;squat",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213320471,
+      "lat": 36.2601827,
+      "lon": 127.3375172,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4440734090,
+      "lat": 36.3621042,
+      "lon": 127.3768283,
+      "tags": {
+        "alt_name:ko": "파리바게트",
+        "brand": "파리바게뜨",
+        "brand:en": "Paris Baguette",
+        "brand:ko": "파리바게뜨",
+        "brand:wikidata": "Q62605260",
+        "check_date": "2024-10-01",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "파리바게뜨",
+        "name:en": "Paris Baguette",
+        "name:ko": "파리바게뜨",
+        "opening_hours": "07:00-23:00",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4675959627,
+      "lat": 36.3599746,
+      "lon": 127.3851243,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4675959628,
+      "lat": 36.3599751,
+      "lon": 127.3846463,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4675959661,
+      "lat": 36.3599744,
+      "lon": 127.3852134,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4675959662,
+      "lat": 36.3599752,
+      "lon": 127.3845672,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4929698707,
+      "lat": 36.3710262,
+      "lon": 127.3882725,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4996276805,
+      "lat": 36.3708312,
+      "lon": 127.3793647,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8043662586,
+      "lat": 36.2216795,
+      "lon": 127.3385953,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8222104341,
+      "lat": 36.3047898,
+      "lon": 127.3508441,
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8222104342,
+      "lat": 36.3044223,
+      "lon": 127.3510012,
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8987924882,
+      "lat": 36.3511165,
+      "lon": 127.4014966,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8987924884,
+      "lat": 36.3513444,
+      "lon": 127.4014729,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271803824,
+      "lat": 36.3514596,
+      "lon": 127.3865539,
+      "tags": {
+        "name": "시청",
+        "name:en": "City Hall",
+        "name:ja": "シチョン(市庁)",
+        "name:ko": "시청",
+        "name:ko-Hani": "市廳",
+        "name:zh": "市厅",
+        "name:zh-Hans": "市厅",
+        "name:zh-Hant": "市廳",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "111",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586320"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271804090,
+      "lat": 36.3545464,
+      "lon": 127.3545556,
+      "tags": {
+        "name": "갑천",
+        "name:en": "Gapcheon",
+        "name:ja": "カプチョン(甲川)",
+        "name:ko": "갑천",
+        "name:ko-Hani": "甲川",
+        "name:zh": "甲川",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "115",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586309"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271804091,
+      "lat": 36.3545176,
+      "lon": 127.3545865,
+      "tags": {
+        "name": "갑천",
+        "name:en": "Gapcheon",
+        "name:ja": "カプチョン(甲川)",
+        "name:ko": "갑천",
+        "name:ko-Hani": "甲川",
+        "name:zh": "甲川",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "115",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586309"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807333,
+      "lat": 36.3583385,
+      "lon": 127.3644581,
+      "tags": {
+        "name": "월평",
+        "name:en": "Wolpyeong",
+        "name:ja": "ウォルピョン(月坪)",
+        "name:ko": "월평",
+        "name:ko-Hani": "月坪",
+        "name:zh": "月坪",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "114",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586336"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807334,
+      "lat": 36.3582965,
+      "lon": 127.3645664,
+      "tags": {
+        "name": "월평",
+        "name:en": "Wolpyeong",
+        "name:ja": "ウォルピョン(月坪)",
+        "name:ko": "월평",
+        "name:ko-Hani": "月坪",
+        "name:zh": "月坪",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "114",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586336"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807335,
+      "lat": 36.3576605,
+      "lon": 127.3727932,
+      "tags": {
+        "name": "갈마",
+        "name:en": "Galma",
+        "name:ja": "カルマ(葛馬)",
+        "name:ko": "갈마",
+        "name:ko-Hani": "葛馬",
+        "name:zh": "葛马",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "113",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586300"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807336,
+      "lat": 36.3576169,
+      "lon": 127.3727918,
+      "tags": {
+        "name": "갈마",
+        "name:en": "Galma",
+        "name:ja": "カルマ(葛馬)",
+        "name:ko": "갈마",
+        "name:ko-Hani": "葛馬",
+        "name:zh": "葛马",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "113",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586300"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807337,
+      "lat": 36.3576058,
+      "lon": 127.3816164,
+      "tags": {
+        "name": "정부청사",
+        "name:en": "Government Complex Daejeon",
+        "name:ja": "政府庁舎",
+        "name:ja-Hira": "チョンブチョンサ",
+        "name:ko": "정부청사",
+        "name:ko-Hani": "政府廳舍",
+        "name:zh": "政府大楼",
+        "name:zh-Hans": "政府大楼",
+        "name:zh-Hant": "政府大樓",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "112",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586444"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807338,
+      "lat": 36.3575827,
+      "lon": 127.3816119,
+      "tags": {
+        "name": "정부청사",
+        "name:en": "Government Complex Daejeon",
+        "name:ja": "チョンブチョンサ(政府庁舎)",
+        "name:ko": "정부청사",
+        "name:ko-Hani": "政府廳舍",
+        "name:zh": "政府大楼",
+        "name:zh-Hans": "政府大楼",
+        "name:zh-Hant": "政府大樓",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "112",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586444"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807339,
+      "lat": 36.3514445,
+      "lon": 127.3865931,
+      "tags": {
+        "name": "시청",
+        "name:en": "City Hall",
+        "name:ja": "市庁",
+        "name:ja-Hira": "シチョン",
+        "name:ko": "시청",
+        "name:ko-Hani": "市廳",
+        "name:zh": "市厅",
+        "name:zh-Hans": "市厅",
+        "name:zh-Hant": "市廳",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "111",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586320"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807340,
+      "lat": 36.3459484,
+      "lon": 127.3846726,
+      "tags": {
+        "name": "탄방",
+        "name:en": "Tanbang",
+        "name:ja": "タンバン(炭坊)",
+        "name:ko": "탄방",
+        "name:ko-Hani": "炭坊",
+        "name:zh": "炭坊",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "111",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586349",
+        "wikipedia": "ko:탄방역"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807341,
+      "lat": 36.3459703,
+      "lon": 127.3846066,
+      "tags": {
+        "name": "탄방",
+        "name:en": "Tanbang",
+        "name:ja": "タンバン(炭坊)",
+        "name:ko": "탄방",
+        "name:ko-Hani": "炭坊",
+        "name:zh": "炭坊",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "110",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586349"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807342,
+      "lat": 36.3382037,
+      "lon": 127.3932583,
+      "tags": {
+        "name": "용문",
+        "name:en": "Yongmun",
+        "name:ja": "ヨンムン(龍汶)",
+        "name:ko": "용문",
+        "name:ko-Hani": "龍汶",
+        "name:zh": "龙汶",
+        "name:zh-Hans": "龙汶",
+        "name:zh-Hant": "龍汶",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "109",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586328"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9271807343,
+      "lat": 36.3381869,
+      "lon": 127.3931959,
+      "tags": {
+        "name": "용문",
+        "name:en": "Yongmun",
+        "name:ja": "ヨンムン(龍汶)",
+        "name:ko": "용문",
+        "name:ko-Hani": "龍汶",
+        "name:zh": "龙汶",
+        "name:zh-Hans": "龙汶",
+        "name:zh-Hant": "龍汶",
+        "operator": "대전교통공사",
+        "operator:en": "Daejeon Transportation Corporation",
+        "operator:ko": "대전교통공사",
+        "operator:type": "public",
+        "operator:wikidata": "Q14949089",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "109",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1586328"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10127797605,
+      "lat": 36.2940117,
+      "lon": 127.3210916,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서일고등학교",
+        "name:ko": "서일고등학교",
+        "public_transport": "platform",
+        "ref": "35540",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11013305576,
+      "lat": 36.3490873,
+      "lon": 127.3767824,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11013305580,
+      "lat": 36.3497916,
+      "lon": 127.3752026,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11013305581,
+      "lat": 36.3498424,
+      "lon": 127.3750987,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11045921010,
+      "lat": 36.3579554,
+      "lon": 127.378131,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11045921011,
+      "lat": 36.357956,
+      "lon": 127.3782455,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11045921029,
+      "lat": 36.3579262,
+      "lon": 127.3792797,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11045921034,
+      "lat": 36.3579239,
+      "lon": 127.3796918,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319692,
+      "lat": 36.3045401,
+      "lon": 127.3417511,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319693,
+      "lat": 36.3045427,
+      "lon": 127.341871,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319696,
+      "lat": 36.3045942,
+      "lon": 127.3424942,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319698,
+      "lat": 36.3046286,
+      "lon": 127.3426423,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319699,
+      "lat": 36.3047632,
+      "lon": 127.3426404,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319701,
+      "lat": 36.304796,
+      "lon": 127.3425928,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319705,
+      "lat": 36.3046171,
+      "lon": 127.3424391,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319708,
+      "lat": 36.3045972,
+      "lon": 127.3419448,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319725,
+      "lat": 36.3054527,
+      "lon": 127.3416837,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341319726,
+      "lat": 36.3053854,
+      "lon": 127.3416837,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11371598808,
+      "lat": 36.3031373,
+      "lon": 127.3428433,
+      "tags": {
+        "access": "yes",
+        "highway": "elevator",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11371598810,
+      "lat": 36.302768,
+      "lon": 127.3430357,
+      "tags": {
+        "access": "yes",
+        "highway": "elevator",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11436502442,
+      "lat": 36.3511561,
+      "lon": 127.3864125,
+      "tags": {
+        "access": "yes",
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11442950031,
+      "lat": 36.3474884,
+      "lon": 127.3831055,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11442950035,
+      "lat": 36.3476023,
+      "lon": 127.383107,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447072002,
+      "lat": 36.343465,
+      "lon": 127.3849498,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447072062,
+      "lat": 36.3434654,
+      "lon": 127.3846654,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447079053,
+      "lat": 36.3450285,
+      "lon": 127.3849591,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447079055,
+      "lat": 36.3450281,
+      "lon": 127.3846685,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447079056,
+      "lat": 36.3450278,
+      "lon": 127.3845232,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447079058,
+      "lat": 36.3450275,
+      "lon": 127.3851289,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447079062,
+      "lat": 36.3463341,
+      "lon": 127.3846644,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447079063,
+      "lat": 36.3463313,
+      "lon": 127.3849594,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11447079077,
+      "lat": 36.3459016,
+      "lon": 127.3844762,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11450998165,
+      "lat": 36.3598947,
+      "lon": 127.3946557,
+      "tags": {
+        "access": "yes",
+        "door": "hinged",
+        "entrance": "main",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11451040978,
+      "lat": 36.3598801,
+      "lon": 127.3948738,
+      "tags": {
+        "access": "yes",
+        "door": "automatic",
+        "entrance": "main",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11455069757,
+      "lat": 36.352942,
+      "lon": 127.3864721,
+      "tags": {
+        "barrier": "gate",
+        "material": "steel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11455069759,
+      "lat": 36.352893,
+      "lon": 127.3864716,
+      "tags": {
+        "barrier": "gate",
+        "material": "steel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11471953519,
+      "lat": 36.3537624,
+      "lon": 127.384032,
+      "tags": {
+        "access": "yes",
+        "door": "hinged",
+        "entrance": "main",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11773758816,
+      "lat": 36.3511997,
+      "lon": 127.3820699,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891044548,
+      "lat": 36.351392,
+      "lon": 127.3893386,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891044549,
+      "lat": 36.3513914,
+      "lon": 127.3891495,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047970,
+      "lat": 36.3517033,
+      "lon": 127.3893356,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047972,
+      "lat": 36.3517048,
+      "lon": 127.3891727,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047974,
+      "lat": 36.3518637,
+      "lon": 127.3893382,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047976,
+      "lat": 36.3518642,
+      "lon": 127.3891869,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047979,
+      "lat": 36.351836,
+      "lon": 127.3893624,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047981,
+      "lat": 36.3517438,
+      "lon": 127.3893611,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047983,
+      "lat": 36.3518362,
+      "lon": 127.3891554,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047985,
+      "lat": 36.3517224,
+      "lon": 127.3891531,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047990,
+      "lat": 36.3531323,
+      "lon": 127.3900841,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047992,
+      "lat": 36.3529837,
+      "lon": 127.3900819,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047994,
+      "lat": 36.3518679,
+      "lon": 127.3900464,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11891047996,
+      "lat": 36.3517343,
+      "lon": 127.3900432,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11910144593,
+      "lat": 36.3511579,
+      "lon": 127.3893377,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11910144595,
+      "lat": 36.351159,
+      "lon": 127.389174,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159684,
+      "lat": 36.3521446,
+      "lon": 127.387594,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159685,
+      "lat": 36.3521936,
+      "lon": 127.387594,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159686,
+      "lat": 36.352773,
+      "lon": 127.3875946,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159687,
+      "lat": 36.3527234,
+      "lon": 127.3875945,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159688,
+      "lat": 36.3530227,
+      "lon": 127.3873338,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159689,
+      "lat": 36.3530233,
+      "lon": 127.3871877,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159701,
+      "lat": 36.353111,
+      "lon": 127.3891565,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159702,
+      "lat": 36.3530198,
+      "lon": 127.3891558,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159704,
+      "lat": 36.3530193,
+      "lon": 127.3893663,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159706,
+      "lat": 36.3531087,
+      "lon": 127.389367,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159708,
+      "lat": 36.3531229,
+      "lon": 127.389338,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159710,
+      "lat": 36.3531242,
+      "lon": 127.3891775,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159711,
+      "lat": 36.3529986,
+      "lon": 127.3893354,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159713,
+      "lat": 36.3529992,
+      "lon": 127.389181,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159734,
+      "lat": 36.3527313,
+      "lon": 127.3877852,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159736,
+      "lat": 36.3527747,
+      "lon": 127.3877852,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159737,
+      "lat": 36.3531303,
+      "lon": 127.3877787,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159739,
+      "lat": 36.353131,
+      "lon": 127.387606,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159742,
+      "lat": 36.3530057,
+      "lon": 127.3877806,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159744,
+      "lat": 36.3530064,
+      "lon": 127.387608,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159747,
+      "lat": 36.3530332,
+      "lon": 127.3875945,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159749,
+      "lat": 36.3531174,
+      "lon": 127.3875948,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159750,
+      "lat": 36.3530327,
+      "lon": 127.3877999,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159752,
+      "lat": 36.3531169,
+      "lon": 127.3878003,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159829,
+      "lat": 36.3539358,
+      "lon": 127.3895051,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159830,
+      "lat": 36.3540002,
+      "lon": 127.3895047,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159832,
+      "lat": 36.3539377,
+      "lon": 127.3890162,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934159834,
+      "lat": 36.3539972,
+      "lon": 127.3890162,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934820844,
+      "lat": 36.3466384,
+      "lon": 127.3848288,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934820847,
+      "lat": 36.3468092,
+      "lon": 127.3848282,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934820848,
+      "lat": 36.3463332,
+      "lon": 127.3845251,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934820849,
+      "lat": 36.3463339,
+      "lon": 127.3851211,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934820860,
+      "lat": 36.3430136,
+      "lon": 127.3849289,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934820861,
+      "lat": 36.3430766,
+      "lon": 127.3846503,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934820862,
+      "lat": 36.3430843,
+      "lon": 127.3844721,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934820863,
+      "lat": 36.342964,
+      "lon": 127.3851223,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939344828,
+      "lat": 36.3047675,
+      "lon": 127.341905,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939344829,
+      "lat": 36.3047205,
+      "lon": 127.3419538,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939344830,
+      "lat": 36.3047933,
+      "lon": 127.3424778,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939344831,
+      "lat": 36.3047489,
+      "lon": 127.3424362,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939344841,
+      "lat": 36.3045992,
+      "lon": 127.3425986,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939344849,
+      "lat": 36.3047593,
+      "lon": 127.3417195,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939344851,
+      "lat": 36.3045796,
+      "lon": 127.3416994,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939344852,
+      "lat": 36.3047138,
+      "lon": 127.3416621,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939358427,
+      "lat": 36.3056861,
+      "lon": 127.3418606,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939358428,
+      "lat": 36.3056858,
+      "lon": 127.3418877,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939358429,
+      "lat": 36.3056856,
+      "lon": 127.3419421,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939358430,
+      "lat": 36.305684,
+      "lon": 127.3420877,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939358431,
+      "lat": 36.305683,
+      "lon": 127.3421497,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939358432,
+      "lat": 36.3056826,
+      "lon": 127.3421841,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939358433,
+      "lat": 36.3056817,
+      "lon": 127.3422641,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939358434,
+      "lat": 36.3056877,
+      "lon": 127.3417226,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11942495740,
+      "lat": 36.3546091,
+      "lon": 127.3734267,
+      "tags": {
+        "access": "yes",
+        "entrance": "main",
+        "level": "0",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978029942,
+      "lat": 36.3466311,
+      "lon": 127.383576,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978029943,
+      "lat": 36.3466298,
+      "lon": 127.3837558,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978029950,
+      "lat": 36.3461417,
+      "lon": 127.3823816,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978029952,
+      "lat": 36.3460833,
+      "lon": 127.3823024,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978029965,
+      "lat": 36.347594,
+      "lon": 127.3856527,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978029966,
+      "lat": 36.3475944,
+      "lon": 127.3857978,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978098869,
+      "lat": 36.3476143,
+      "lon": 127.3837243,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978098875,
+      "lat": 36.3476143,
+      "lon": 127.3836801,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978098883,
+      "lat": 36.3476042,
+      "lon": 127.3838721,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11978098884,
+      "lat": 36.3476032,
+      "lon": 127.3840443,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084346,
+      "lat": 36.3489137,
+      "lon": 127.3884692,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084347,
+      "lat": 36.3490953,
+      "lon": 127.3884695,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084364,
+      "lat": 36.3485461,
+      "lon": 127.3891473,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084367,
+      "lat": 36.3485217,
+      "lon": 127.3877671,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084368,
+      "lat": 36.3486018,
+      "lon": 127.3877659,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084369,
+      "lat": 36.3486032,
+      "lon": 127.3891475,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084372,
+      "lat": 36.3479391,
+      "lon": 127.3880688,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084373,
+      "lat": 36.3479389,
+      "lon": 127.3881298,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084374,
+      "lat": 36.347937,
+      "lon": 127.3887823,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084375,
+      "lat": 36.3479368,
+      "lon": 127.3888443,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084379,
+      "lat": 36.3477969,
+      "lon": 127.3884576,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084380,
+      "lat": 36.3479187,
+      "lon": 127.3884586,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084386,
+      "lat": 36.3479456,
+      "lon": 127.3877431,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084387,
+      "lat": 36.3479507,
+      "lon": 127.3875586,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084391,
+      "lat": 36.3491507,
+      "lon": 127.3877689,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084392,
+      "lat": 36.3491545,
+      "lon": 127.3875973,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084404,
+      "lat": 36.3491531,
+      "lon": 127.3893081,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084405,
+      "lat": 36.3491536,
+      "lon": 127.3891497,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084415,
+      "lat": 36.3479434,
+      "lon": 127.3896033,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084416,
+      "lat": 36.347943,
+      "lon": 127.3896838,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084417,
+      "lat": 36.3485546,
+      "lon": 127.3893446,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084418,
+      "lat": 36.3485988,
+      "lon": 127.3893451,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084422,
+      "lat": 36.3488613,
+      "lon": 127.3893472,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084423,
+      "lat": 36.3488613,
+      "lon": 127.3891616,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084427,
+      "lat": 36.3491113,
+      "lon": 127.38998,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993084428,
+      "lat": 36.3488799,
+      "lon": 127.3899801,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993205796,
+      "lat": 36.351142,
+      "lon": 127.4014673,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993205798,
+      "lat": 36.3511272,
+      "lon": 127.4017952,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993714435,
+      "lat": 36.3491225,
+      "lon": 127.3807479,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993714436,
+      "lat": 36.3491224,
+      "lon": 127.3808202,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993714437,
+      "lat": 36.3489663,
+      "lon": 127.3809026,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993714456,
+      "lat": 36.3464919,
+      "lon": 127.378753,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993714457,
+      "lat": 36.3477334,
+      "lon": 127.3781738,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993714458,
+      "lat": 36.3476991,
+      "lon": 127.3781108,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993714460,
+      "lat": 36.3480544,
+      "lon": 127.3787859,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993714461,
+      "lat": 36.3480987,
+      "lon": 127.3788721,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993719678,
+      "lat": 36.3489204,
+      "lon": 127.3819327,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993719682,
+      "lat": 36.3489542,
+      "lon": 127.3806346,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993719683,
+      "lat": 36.3490775,
+      "lon": 127.3806177,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993719685,
+      "lat": 36.3489457,
+      "lon": 127.3806606,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993719686,
+      "lat": 36.3489362,
+      "lon": 127.3806825,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993719687,
+      "lat": 36.3490918,
+      "lon": 127.3808592,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993719688,
+      "lat": 36.3490879,
+      "lon": 127.3809002,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993719692,
+      "lat": 36.3490958,
+      "lon": 127.3807191,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993775230,
+      "lat": 36.3489373,
+      "lon": 127.380867,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993775263,
+      "lat": 36.3489554,
+      "lon": 127.3808787,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993777773,
+      "lat": 36.3485379,
+      "lon": 127.379382,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993777774,
+      "lat": 36.3484859,
+      "lon": 127.3792724,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993777787,
+      "lat": 36.3478942,
+      "lon": 127.3780729,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993777788,
+      "lat": 36.3478432,
+      "lon": 127.3779716,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993777797,
+      "lat": 36.3486869,
+      "lon": 127.3770595,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993777801,
+      "lat": 36.3486898,
+      "lon": 127.3771153,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11994626538,
+      "lat": 36.3496885,
+      "lon": 127.3819574,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11994626539,
+      "lat": 36.3495559,
+      "lon": 127.3819558,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11994626567,
+      "lat": 36.3512008,
+      "lon": 127.3819513,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733469,
+      "lat": 36.3431751,
+      "lon": 127.3851687,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733470,
+      "lat": 36.3434678,
+      "lon": 127.3851223,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733473,
+      "lat": 36.3460108,
+      "lon": 127.3844752,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733476,
+      "lat": 36.3434668,
+      "lon": 127.3845116,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733477,
+      "lat": 36.3441144,
+      "lon": 127.3844633,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733478,
+      "lat": 36.3442362,
+      "lon": 127.384465,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733482,
+      "lat": 36.3458897,
+      "lon": 127.3851717,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733483,
+      "lat": 36.3460258,
+      "lon": 127.385172,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733511,
+      "lat": 36.3436119,
+      "lon": 127.3821948,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733517,
+      "lat": 36.3435835,
+      "lon": 127.3822871,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733527,
+      "lat": 36.3433641,
+      "lon": 127.3844538,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733528,
+      "lat": 36.3432315,
+      "lon": 127.3844536,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733530,
+      "lat": 36.3426913,
+      "lon": 127.3843352,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733540,
+      "lat": 36.3439099,
+      "lon": 127.3804819,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733544,
+      "lat": 36.3436832,
+      "lon": 127.3808482,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733548,
+      "lat": 36.3429271,
+      "lon": 127.383116,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733552,
+      "lat": 36.3443409,
+      "lon": 127.3798652,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733553,
+      "lat": 36.3438474,
+      "lon": 127.3805799,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733554,
+      "lat": 36.3437224,
+      "lon": 127.3807847,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733564,
+      "lat": 36.3428944,
+      "lon": 127.3832366,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733567,
+      "lat": 36.342673,
+      "lon": 127.3843095,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733568,
+      "lat": 36.342683,
+      "lon": 127.3842617,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733571,
+      "lat": 36.3425512,
+      "lon": 127.3850686,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733574,
+      "lat": 36.3429016,
+      "lon": 127.3851919,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733577,
+      "lat": 36.3417994,
+      "lon": 127.3882926,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733578,
+      "lat": 36.3417695,
+      "lon": 127.3883803,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733587,
+      "lat": 36.3422037,
+      "lon": 127.3864768,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733588,
+      "lat": 36.3421826,
+      "lon": 127.3865801,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733590,
+      "lat": 36.3420607,
+      "lon": 127.3871293,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733591,
+      "lat": 36.3420416,
+      "lon": 127.3872156,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733593,
+      "lat": 36.3419839,
+      "lon": 127.3874759,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733594,
+      "lat": 36.3419631,
+      "lon": 127.3875696,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733599,
+      "lat": 36.3408956,
+      "lon": 127.3882548,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733600,
+      "lat": 36.3409588,
+      "lon": 127.388335,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733604,
+      "lat": 36.3413426,
+      "lon": 127.3854592,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733605,
+      "lat": 36.3413751,
+      "lon": 127.3854172,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733607,
+      "lat": 36.3407922,
+      "lon": 127.3861194,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733608,
+      "lat": 36.3407406,
+      "lon": 127.3861813,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733609,
+      "lat": 36.3403904,
+      "lon": 127.3866013,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11998733610,
+      "lat": 36.3403617,
+      "lon": 127.3866358,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198688,
+      "lat": 36.3517637,
+      "lon": 127.3811559,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198689,
+      "lat": 36.3517162,
+      "lon": 127.3811557,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198693,
+      "lat": 36.3521442,
+      "lon": 127.3811575,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198694,
+      "lat": 36.3520222,
+      "lon": 127.381156,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198696,
+      "lat": 36.3520227,
+      "lon": 127.3800543,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198697,
+      "lat": 36.3521712,
+      "lon": 127.3801348,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198700,
+      "lat": 36.3519943,
+      "lon": 127.3800107,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198701,
+      "lat": 36.352037,
+      "lon": 127.3798545,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198706,
+      "lat": 36.3521846,
+      "lon": 127.3801227,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198707,
+      "lat": 36.3522096,
+      "lon": 127.3799817,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198708,
+      "lat": 36.3521678,
+      "lon": 127.3798928,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198709,
+      "lat": 36.3520645,
+      "lon": 127.3798405,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198713,
+      "lat": 36.3513971,
+      "lon": 127.3820651,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198714,
+      "lat": 36.3513966,
+      "lon": 127.3819473,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198717,
+      "lat": 36.3513559,
+      "lon": 127.3811543,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198718,
+      "lat": 36.3512426,
+      "lon": 127.3811543,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198737,
+      "lat": 36.3517961,
+      "lon": 127.3799103,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198738,
+      "lat": 36.3517162,
+      "lon": 127.379865,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198740,
+      "lat": 36.3517658,
+      "lon": 127.38194,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198741,
+      "lat": 36.3517127,
+      "lon": 127.3819397,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198748,
+      "lat": 36.3523936,
+      "lon": 127.3802377,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198749,
+      "lat": 36.3524563,
+      "lon": 127.3802632,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198751,
+      "lat": 36.3532116,
+      "lon": 127.3804137,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198760,
+      "lat": 36.3531675,
+      "lon": 127.3804096,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198763,
+      "lat": 36.3524497,
+      "lon": 127.3818618,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198764,
+      "lat": 36.3524003,
+      "lon": 127.3818617,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198770,
+      "lat": 36.3532151,
+      "lon": 127.3818635,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999198771,
+      "lat": 36.3531617,
+      "lon": 127.3818633,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999948626,
+      "lat": 36.3520021,
+      "lon": 127.3820715,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999948628,
+      "lat": 36.3521584,
+      "lon": 127.3820736,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999948629,
+      "lat": 36.3520015,
+      "lon": 127.3819616,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999948640,
+      "lat": 36.3521516,
+      "lon": 127.3827923,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999948641,
+      "lat": 36.3519965,
+      "lon": 127.3827878,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999948652,
+      "lat": 36.3528463,
+      "lon": 127.3828163,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11999948653,
+      "lat": 36.3527339,
+      "lon": 127.3828149,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023370,
+      "lat": 36.3534539,
+      "lon": 127.3820423,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023371,
+      "lat": 36.3534539,
+      "lon": 127.3818637,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023372,
+      "lat": 36.3536672,
+      "lon": 127.3820563,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023373,
+      "lat": 36.3536697,
+      "lon": 127.3818625,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023401,
+      "lat": 36.3538819,
+      "lon": 127.3804496,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023402,
+      "lat": 36.353954,
+      "lon": 127.3804501,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023404,
+      "lat": 36.3551638,
+      "lon": 127.3804576,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023405,
+      "lat": 36.355099,
+      "lon": 127.3804573,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023420,
+      "lat": 36.3557458,
+      "lon": 127.3813211,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023421,
+      "lat": 36.3557457,
+      "lon": 127.3814614,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023429,
+      "lat": 36.3542846,
+      "lon": 127.382782,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023430,
+      "lat": 36.3543646,
+      "lon": 127.382782,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023434,
+      "lat": 36.3547946,
+      "lon": 127.3827813,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023435,
+      "lat": 36.3549168,
+      "lon": 127.3827791,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000023471,
+      "lat": 36.3514628,
+      "lon": 127.3823949,
+      "tags": {
+        "access": "yes",
+        "entrance": "main",
+        "level": "0",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337099,
+      "lat": 36.3559546,
+      "lon": 127.3803255,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337100,
+      "lat": 36.3559543,
+      "lon": 127.3804211,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337126,
+      "lat": 36.3560793,
+      "lon": 127.3803149,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337127,
+      "lat": 36.3560255,
+      "lon": 127.3803139,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337146,
+      "lat": 36.354395,
+      "lon": 127.3802583,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337147,
+      "lat": 36.3542766,
+      "lon": 127.3802571,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337148,
+      "lat": 36.3543886,
+      "lon": 127.3796979,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337149,
+      "lat": 36.3542818,
+      "lon": 127.3796983,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337152,
+      "lat": 36.3535222,
+      "lon": 127.3804523,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337154,
+      "lat": 36.3536905,
+      "lon": 127.3804548,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337155,
+      "lat": 36.3535098,
+      "lon": 127.3802495,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337157,
+      "lat": 36.3536671,
+      "lon": 127.380249,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337158,
+      "lat": 36.3536981,
+      "lon": 127.3804448,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337160,
+      "lat": 36.3536969,
+      "lon": 127.3802789,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337161,
+      "lat": 36.3534801,
+      "lon": 127.3804046,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000337163,
+      "lat": 36.3534806,
+      "lon": 127.3802826,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348609,
+      "lat": 36.3517259,
+      "lon": 127.3796605,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348610,
+      "lat": 36.3517862,
+      "lon": 127.3796979,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348612,
+      "lat": 36.3515551,
+      "lon": 127.3795663,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348613,
+      "lat": 36.3516081,
+      "lon": 127.3795997,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348618,
+      "lat": 36.3514106,
+      "lon": 127.3795037,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348619,
+      "lat": 36.3513955,
+      "lon": 127.3796521,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348658,
+      "lat": 36.3525809,
+      "lon": 127.3784141,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348661,
+      "lat": 36.3526514,
+      "lon": 127.3782448,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348698,
+      "lat": 36.3528382,
+      "lon": 127.3775734,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12000348699,
+      "lat": 36.3528395,
+      "lon": 127.3774577,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12001074861,
+      "lat": 36.3579593,
+      "lon": 127.3792401,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12001079083,
+      "lat": 36.3579752,
+      "lon": 127.3797569,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12008684731,
+      "lat": 36.3511781,
+      "lon": 127.3915283,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12008684732,
+      "lat": 36.3511779,
+      "lon": 127.3914411,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12008684736,
+      "lat": 36.349116,
+      "lon": 127.3917492,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12008684737,
+      "lat": 36.3491175,
+      "lon": 127.3915729,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12008684739,
+      "lat": 36.3511827,
+      "lon": 127.3936114,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12008684741,
+      "lat": 36.3511845,
+      "lon": 127.393761,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012019182,
+      "lat": 36.3485637,
+      "lon": 127.3764709,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012276850,
+      "lat": 36.3491361,
+      "lon": 127.3768315,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012276858,
+      "lat": 36.3497144,
+      "lon": 127.3772238,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012276859,
+      "lat": 36.3497771,
+      "lon": 127.3772656,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "flush",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012276863,
+      "lat": 36.3489784,
+      "lon": 127.376721,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012276864,
+      "lat": 36.3490257,
+      "lon": 127.3767154,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012276865,
+      "lat": 36.3486126,
+      "lon": 127.3764982,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012276867,
+      "lat": 36.3489034,
+      "lon": 127.3766835,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316270,
+      "lat": 36.3483439,
+      "lon": 127.3768118,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316273,
+      "lat": 36.3486282,
+      "lon": 127.3770203,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316274,
+      "lat": 36.3489189,
+      "lon": 127.3767963,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316277,
+      "lat": 36.348741,
+      "lon": 127.3770194,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316278,
+      "lat": 36.3484522,
+      "lon": 127.3765027,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316281,
+      "lat": 36.348334,
+      "lon": 127.3767014,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316294,
+      "lat": 36.3485559,
+      "lon": 127.3764038,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316296,
+      "lat": 36.3482174,
+      "lon": 127.3767719,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012316298,
+      "lat": 36.3482681,
+      "lon": 127.3767715,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014732310,
+      "lat": 36.3586851,
+      "lon": 127.3796973,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014732311,
+      "lat": 36.3588373,
+      "lon": 127.3796749,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014732351,
+      "lat": 36.3579599,
+      "lon": 127.3813642,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014732352,
+      "lat": 36.3579607,
+      "lon": 127.3812641,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014732364,
+      "lat": 36.357945,
+      "lon": 127.3804295,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014732365,
+      "lat": 36.3579451,
+      "lon": 127.3805271,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014737387,
+      "lat": 36.3586933,
+      "lon": 127.3799806,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014737388,
+      "lat": 36.3586931,
+      "lon": 127.3801136,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014737390,
+      "lat": 36.3579778,
+      "lon": 127.3811833,
+      "tags": {
+        "access": "yes",
+        "highway": "elevator",
+        "level": "0",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014737432,
+      "lat": 36.3596621,
+      "lon": 127.381264,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014737433,
+      "lat": 36.3596622,
+      "lon": 127.381365,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014737441,
+      "lat": 36.3596185,
+      "lon": 127.3828573,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12014737443,
+      "lat": 36.3596046,
+      "lon": 127.3831426,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016580136,
+      "lat": 36.3576275,
+      "lon": 127.3849518,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016580139,
+      "lat": 36.3578289,
+      "lon": 127.3849531,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761505,
+      "lat": 36.3464021,
+      "lon": 127.3788299,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761507,
+      "lat": 36.3448598,
+      "lon": 127.379322,
+      "tags": {
+        "access": "yes",
+        "highway": "elevator",
+        "level": "1;0",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761508,
+      "lat": 36.3451594,
+      "lon": 127.3798111,
+      "tags": {
+        "access": "yes",
+        "highway": "elevator",
+        "level": "1;0",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761538,
+      "lat": 36.3458292,
+      "lon": 127.3786765,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761541,
+      "lat": 36.3471387,
+      "lon": 127.3776826,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761542,
+      "lat": 36.3470777,
+      "lon": 127.3777313,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761558,
+      "lat": 36.3454422,
+      "lon": 127.3808885,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761566,
+      "lat": 36.3462736,
+      "lon": 127.3820864,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761568,
+      "lat": 36.3463466,
+      "lon": 127.3821878,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761658,
+      "lat": 36.3481923,
+      "lon": 127.3786664,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12019761692,
+      "lat": 36.3431028,
+      "lon": 127.3844898,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12021749464,
+      "lat": 36.3600852,
+      "lon": 127.3851677,
+      "tags": {
+        "barrier": "gate",
+        "locked": "yes",
+        "material": "steel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12021749465,
+      "lat": 36.3600871,
+      "lon": 127.3846017,
+      "tags": {
+        "barrier": "gate",
+        "locked": "yes",
+        "material": "steel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12022107138,
+      "lat": 36.3600858,
+      "lon": 127.3849996,
+      "tags": {
+        "barrier": "gate",
+        "locked": "yes",
+        "material": "steel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12022107139,
+      "lat": 36.3600865,
+      "lon": 127.3847686,
+      "tags": {
+        "barrier": "gate",
+        "locked": "yes",
+        "material": "steel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566133,
+      "lat": 36.3477692,
+      "lon": 127.3778812,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566134,
+      "lat": 36.3476441,
+      "lon": 127.377965,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566276,
+      "lat": 36.3449461,
+      "lon": 127.3802021,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566277,
+      "lat": 36.3450089,
+      "lon": 127.3802801,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566279,
+      "lat": 36.3455248,
+      "lon": 127.3809948,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566280,
+      "lat": 36.3447586,
+      "lon": 127.380404,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566281,
+      "lat": 36.3448278,
+      "lon": 127.3804998,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566282,
+      "lat": 36.3453248,
+      "lon": 127.3812002,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12030566283,
+      "lat": 36.3452473,
+      "lon": 127.3810921,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033545148,
+      "lat": 36.3491111,
+      "lon": 127.3820542,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033545149,
+      "lat": 36.3491109,
+      "lon": 127.381947,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033545150,
+      "lat": 36.3491106,
+      "lon": 127.3823281,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033545151,
+      "lat": 36.3491103,
+      "lon": 127.3824247,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033545156,
+      "lat": 36.3489194,
+      "lon": 127.3820431,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033545157,
+      "lat": 36.3489178,
+      "lon": 127.3823299,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033545158,
+      "lat": 36.3489167,
+      "lon": 127.3824063,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033545163,
+      "lat": 36.3482456,
+      "lon": 127.3787894,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035039552,
+      "lat": 36.3479526,
+      "lon": 127.3828001,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035039553,
+      "lat": 36.3478288,
+      "lon": 127.3827984,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035039558,
+      "lat": 36.346596,
+      "lon": 127.3844666,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035039559,
+      "lat": 36.3465979,
+      "lon": 127.3846625,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035039560,
+      "lat": 36.3465936,
+      "lon": 127.3849885,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035039561,
+      "lat": 36.346595,
+      "lon": 127.3851955,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035039562,
+      "lat": 36.3479148,
+      "lon": 127.3869076,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035039563,
+      "lat": 36.3478014,
+      "lon": 127.3869066,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12095157558,
+      "lat": 36.3207726,
+      "lon": 127.367807,
+      "tags": {
+        "access": "private",
+        "door": "automatic",
+        "entrance": "secondary",
+        "name": "배재대학교 중문",
+        "name:en": "Middle gate of Pai Chai University",
+        "name:ko": "배재대학교 중문",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147664626,
+      "lat": 36.343083,
+      "lon": 127.3851633,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147664634,
+      "lat": 36.3425377,
+      "lon": 127.3870858,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147664636,
+      "lat": 36.3425076,
+      "lon": 127.3872441,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147664658,
+      "lat": 36.3421824,
+      "lon": 127.3885643,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147664659,
+      "lat": 36.342177,
+      "lon": 127.3887213,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147664665,
+      "lat": 36.3426614,
+      "lon": 127.3886267,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147664667,
+      "lat": 36.3425977,
+      "lon": 127.3886442,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147681928,
+      "lat": 36.3426579,
+      "lon": 127.3890441,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147681929,
+      "lat": 36.3427011,
+      "lon": 127.3890293,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147681930,
+      "lat": 36.3427377,
+      "lon": 127.3893926,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147681931,
+      "lat": 36.342776,
+      "lon": 127.389393,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12215307622,
+      "lat": 36.3656284,
+      "lon": 127.383107,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "check_date": "2024-10-02",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12215307623,
+      "lat": 36.3656127,
+      "lon": 127.3868526,
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "check_date": "2024-10-02"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13195990860,
+      "lat": 36.3713504,
+      "lon": 127.3837434,
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13195990861,
+      "lat": 36.370944,
+      "lon": 127.3837626,
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13531500943,
+      "lat": 36.3444797,
+      "lon": 127.37968,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13604937982,
+      "lat": 36.3458845,
+      "lon": 127.3786371,
+      "tags": {
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13893490430,
+      "lat": 36.3585312,
+      "lon": 127.3644403,
+      "tags": {
+        "highway": "elevator",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13942388669,
+      "lat": 36.3581534,
+      "lon": 127.3642476,
+      "tags": {
+        "highway": "elevator",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14179682304,
+      "lat": 36.3455084,
+      "lon": 127.3844649,
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30550231,
+      "center": {
+        "lat": 36.354152,
+        "lon": 127.3944978
+      },
+      "tags": {
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "한밭초등학교",
+        "name:en": "Hanbat Elementary School",
+        "name:ko-Latn": "Hanbatchodeunghakgyo",
+        "wheelchair": "yes",
+        "wikidata": "Q18648589"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30550536,
+      "center": {
+        "lat": 36.354,
+        "lon": 127.4010263
+      },
+      "tags": {
+        "amenity": "school",
+        "isced:level": "1",
+        "name": "삼천초등학교",
+        "name:en": "Samcheon Elementary School",
+        "name:ko": "삼천초등학교",
+        "name:ko-Latn": "Samcheonchodeunghakgyo",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30550621,
+      "center": {
+        "lat": 36.3550871,
+        "lon": 127.4010225
+      },
+      "tags": {
+        "amenity": "school",
+        "isced:level": "2",
+        "name": "문정중학교",
+        "name:en": "Munjeong Middle School",
+        "name:ko": "문정중학교",
+        "name:ko-Latn": "Munjeongjunghakgyo",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51319756,
+      "center": {
+        "lat": 36.3693236,
+        "lon": 127.3733601
+      },
+      "tags": {
+        "bicycle": "dismount",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "yes",
+        "ramp:bicycle": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53259905,
+      "center": {
+        "lat": 36.3639857,
+        "lon": 127.3656209
+      },
+      "tags": {
+        "bicycle": "dismount",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "yes",
+        "ramp:bicycle": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97662063,
+      "center": {
+        "lat": 36.3592104,
+        "lon": 127.3610854
+      },
+      "tags": {
+        "highway": "steps",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97662069,
+      "center": {
+        "lat": 36.3594245,
+        "lon": 127.3604874
+      },
+      "tags": {
+        "check_date:ramp": "2024-04-15",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "layer": "1",
+        "ramp": "yes",
+        "ramp:wheelchair": "yes",
+        "step_count": "45",
+        "surface": "concrete",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97662079,
+      "center": {
+        "lat": 36.3583089,
+        "lon": 127.3594536
+      },
+      "tags": {
+        "highway": "steps",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97662083,
+      "center": {
+        "lat": 36.3586045,
+        "lon": 127.3606118
+      },
+      "tags": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 107295665,
+      "center": {
+        "lat": 36.3582156,
+        "lon": 127.3599151
+      },
+      "tags": {
+        "highway": "steps",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125253464,
+      "center": {
+        "lat": 36.3673102,
+        "lon": 127.3903302
+      },
+      "tags": {
+        "bicycle": "no",
+        "foot": "designated",
+        "highway": "path",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 164146499,
+      "center": {
+        "lat": 36.3065146,
+        "lon": 127.3577985
+      },
+      "tags": {
+        "bicycle": "yes",
+        "foot": "designated",
+        "highway": "steps",
+        "ramp": "yes",
+        "segregated": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180377486,
+      "center": {
+        "lat": 36.3682319,
+        "lon": 127.3797689
+      },
+      "tags": {
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297497430,
+      "center": {
+        "lat": 36.3696715,
+        "lon": 127.3730215
+      },
+      "tags": {
+        "bicycle": "dismount",
+        "foot": "yes",
+        "ford": "stepping_stones",
+        "highway": "path",
+        "ramp": "yes",
+        "ramp:bicycle": "yes",
+        "waterway": "weir",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297497436,
+      "center": {
+        "lat": 36.3644515,
+        "lon": 127.3652532
+      },
+      "tags": {
+        "bicycle": "dismount",
+        "foot": "yes",
+        "ford": "stepping_stones",
+        "highway": "path",
+        "ramp": "yes",
+        "ramp:bicycle": "yes",
+        "waterway": "weir",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 330915519,
+      "center": {
+        "lat": 36.3581245,
+        "lon": 127.4002189
+      },
+      "tags": {
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 330915520,
+      "center": {
+        "lat": 36.358242,
+        "lon": 127.400797
+      },
+      "tags": {
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 330915521,
+      "center": {
+        "lat": 36.3575015,
+        "lon": 127.4005422
+      },
+      "tags": {
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 473492279,
+      "center": {
+        "lat": 36.3550947,
+        "lon": 127.3948914
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 487312689,
+      "center": {
+        "lat": 36.3600449,
+        "lon": 127.3931644
+      },
+      "tags": {
+        "addr:city": "대전광역시",
+        "addr:district": "서구",
+        "addr:housenumber": "263",
+        "addr:postcode": "35205",
+        "addr:street": "청사로",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "둔산도서관",
+        "name:en": "Dunsan Library",
+        "name:ko": "둔산도서관",
+        "opening_hours": "Tu-Fr 09:00-22:00; Sa-Su 09:00-18:00",
+        "phone": "042-288-4800",
+        "website": "https://www.seogu.go.kr/learning/dunsanlib/index.do",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 487325769,
+      "center": {
+        "lat": 36.3587726,
+        "lon": 127.3986607
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 510666730,
+      "center": {
+        "lat": 36.368543,
+        "lon": 127.379329
+      },
+      "tags": {
+        "bridge": "yes",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 514098464,
+      "center": {
+        "lat": 36.3685532,
+        "lon": 127.3793409
+      },
+      "tags": {
+        "bridge": "yes",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "layer": "1",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 614630263,
+      "center": {
+        "lat": 36.3699213,
+        "lon": 127.3834148
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "화장실",
+        "name:en": "Restroom"
+      }
+    },
+    {
+      "type": "way",
+      "id": 760110763,
+      "center": {
+        "lat": 36.3674337,
+        "lon": 127.3886209
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 967501979,
+      "center": {
+        "lat": 36.3517822,
+        "lon": 127.3861328
+      },
+      "tags": {
+        "addr:city": "대전광역시",
+        "addr:district": "서구",
+        "addr:housenumber": "111",
+        "addr:postcode": "35239",
+        "addr:street": "둔산로",
+        "amenity": "post_office",
+        "building": "yes",
+        "name": "대전둔산우체국",
+        "name:en": "Daejeon Dunsan Post Office",
+        "name:ko": "대전둔산우체국",
+        "name:ko-Latn": "Daejeon Dunsanucheguk",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "042-611-1630",
+        "wheelchair": "yes",
+        "wikidata": "Q17487039"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1297288303,
+      "center": {
+        "lat": 36.3450114,
+        "lon": 127.3792714
+      },
+      "tags": {
+        "bridge": "yes",
+        "covered": "no",
+        "highway": "footway",
+        "incline": "up",
+        "layer": "1",
+        "smoothness": "excellent",
+        "stroller": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1297581000,
+      "center": {
+        "lat": 36.3600862,
+        "lon": 127.3848806
+      },
+      "tags": {
+        "barrier": "gate",
+        "locked": "yes",
+        "material": "steel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298124898,
+      "center": {
+        "lat": 36.3560958,
+        "lon": 127.384237
+      },
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "building:levels": "1",
+        "building:levels:underground": "0",
+        "level": "0",
+        "toilets:disposal": "flush"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1435692950,
+      "center": {
+        "lat": 36.3713515,
+        "lon": 127.3836317
+      },
+      "tags": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "yes",
+        "ramp:bicycle": "yes",
+        "ramp:wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1435692952,
+      "center": {
+        "lat": 36.3713746,
+        "lon": 127.3835932
+      },
+      "tags": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "yes",
+        "ramp:bicycle": "yes",
+        "ramp:wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1435692954,
+      "center": {
+        "lat": 36.3709456,
+        "lon": 127.3836594
+      },
+      "tags": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "yes",
+        "ramp:bicycle": "yes",
+        "ramp:wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1521338694,
+      "center": {
+        "lat": 36.3684062,
+        "lon": 127.3793296
+      },
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "ramp": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1524310217,
+      "center": {
+        "lat": 36.3585325,
+        "lon": 127.3644405
+      },
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1525701512,
+      "center": {
+        "lat": 36.3619078,
+        "lon": 127.3686604
+      },
+      "tags": {
+        "highway": "footway",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1529656437,
+      "center": {
+        "lat": 36.3581545,
+        "lon": 127.3642474
+      },
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1551417203,
+      "center": {
+        "lat": 36.3666061,
+        "lon": 127.3743334
+      },
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      }
+    }
+  ]
+}
